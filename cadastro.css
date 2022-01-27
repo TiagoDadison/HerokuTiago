@@ -324,6 +324,10 @@
         margin-left: 80px;
         margin-top: 21.3px;
     }
+    *{
+        background-color: aqua;
+    }
+    
     
     #check2>input{
         width: 20px;
