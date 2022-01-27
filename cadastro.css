@@ -1,3 +1,7 @@
+*{
+    background-color: aqua;
+}
+
 #logo>img{
     margin-left: 765px;
     margin-top: 50px;
@@ -324,10 +328,6 @@
         margin-left: 80px;
         margin-top: 21.3px;
     }
-    *{
-        background-color: aqua;
-    }
-    
     
     #check2>input{
         width: 20px;
